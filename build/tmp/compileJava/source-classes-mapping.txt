@@ -1,0 +1,60 @@
+com/epam/jwd/hardziyevich/text_app/terminal_expression/TerminalExpressionBitShiftRight.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.TerminalExpressionBitShiftRight
+com/epam/jwd/hardziyevich/text_app/terminal_expression/Context.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.Context
+com/epam/jwd/hardziyevich/text_app/terminal_expression/TerminalExpressionXor.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.TerminalExpressionXor
+com/epam/jwd/hardziyevich/text_app/composition/SomeTextComponent.java
+ com.epam.jwd.hardziyevich.text_app.composition.SomeTextComponent
+com/epam/jwd/hardziyevich/text_app/service/TextCompiler.java
+ com.epam.jwd.hardziyevich.text_app.service.TextCompiler
+com/epam/jwd/hardziyevich/text_app/terminal_expression/ReversePolishNotation.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.ReversePolishNotation
+com/epam/jwd/hardziyevich/text_app/service/RegexTextSplitter.java
+ com.epam.jwd.hardziyevich.text_app.service.RegexTextSplitter
+com/epam/jwd/hardziyevich/text_app/TextStorage/TextStorage.java
+ com.epam.jwd.hardziyevich.text_app.TextStorage.TextStorage
+com/epam/jwd/hardziyevich/text_app/terminal_expression/NonterminalExpressionNumber.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.NonterminalExpressionNumber
+com/epam/jwd/hardziyevich/text_app/service/LexemeComparator.java
+ com.epam.jwd.hardziyevich.text_app.service.LexemeComparator
+com/epam/jwd/hardziyevich/text_app/terminal_expression/TerminalExpressionAnd.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.TerminalExpressionAnd
+com/epam/jwd/hardziyevich/text_app/composition/Lexeme.java
+ com.epam.jwd.hardziyevich.text_app.composition.Lexeme
+com/epam/jwd/hardziyevich/text_app/exceptions/IndivisibleElementException.java
+ com.epam.jwd.hardziyevich.text_app.exceptions.IndivisibleElementException
+com/epam/jwd/hardziyevich/text_app/terminal_expression/TerminalExpressionOr.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.TerminalExpressionOr
+com/epam/jwd/hardziyevich/text_app/service/SentenceComparator.java
+ com.epam.jwd.hardziyevich.text_app.service.SentenceComparator
+com/epam/jwd/hardziyevich/text_app/parsers/TextSplitter.java
+ com.epam.jwd.hardziyevich.text_app.parsers.TextSplitter
+com/epam/jwd/hardziyevich/text_app/service/ParagraphComparator.java
+ com.epam.jwd.hardziyevich.text_app.service.ParagraphComparator
+com/epam/jwd/hardziyevich/text_app/terminal_expression/TerminalExpressionBitShiftLeft.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.TerminalExpressionBitShiftLeft
+com/epam/jwd/hardziyevich/text_app/service/TextCompilerService.java
+ com.epam.jwd.hardziyevich.text_app.service.TextCompilerService
+com/epam/jwd/hardziyevich/text_app/exceptions/UnsupportedOperationException.java
+ com.epam.jwd.hardziyevich.text_app.exceptions.UnsupportedOperationException
+com/epam/jwd/hardziyevich/text_app/terminal_expression/TerminalExpressionNot.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.TerminalExpressionNot
+com/epam/jwd/hardziyevich/text_app/composition/TextComponent.java
+ com.epam.jwd.hardziyevich.text_app.composition.TextComponent
+com/epam/jwd/hardziyevich/text_app/terminal_expression/BitLogicalExpression.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.BitLogicalExpression
+com/epam/jwd/hardziyevich/text_app/composition/Sentence.java
+ com.epam.jwd.hardziyevich.text_app.composition.Sentence
+com/epam/jwd/hardziyevich/text_app/composition/Paragraph.java
+ com.epam.jwd.hardziyevich.text_app.composition.Paragraph
+com/epam/jwd/hardziyevich/text_app/service/TextSort.java
+ com.epam.jwd.hardziyevich.text_app.service.TextSort
+com/epam/jwd/hardziyevich/text_app/service/TextSortService.java
+ com.epam.jwd.hardziyevich.text_app.service.TextSortService
+com/epam/jwd/hardziyevich/text_app/terminal_expression/AbstractMathExpression.java
+ com.epam.jwd.hardziyevich.text_app.terminal_expression.AbstractMathExpression
+com/epam/jwd/hardziyevich/text_app/parsers/ConcreteTextSplitter.java
+ com.epam.jwd.hardziyevich.text_app.parsers.ConcreteTextSplitter
+com/epam/jwd/hardziyevich/text_app/composition/Text.java
+ com.epam.jwd.hardziyevich.text_app.composition.Text
